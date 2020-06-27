@@ -1,0 +1,21 @@
+
+
+#seccionPrincipal{
+    background-color: cadetblue;
+    border: 2px solid #22496A;
+    border-radius: 5px;
+    margin: 80px 350px 0px 350px;
+    padding: 10px;
+    
+}
+
+.resultado{
+    height: 60px;
+}
+
+button{
+    background-color: #C8D3DC;
+    border: 2px solid #22496A;
+    border-radius: 10px;
+}
+
